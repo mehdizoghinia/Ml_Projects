@@ -1,6 +1,8 @@
 # Ml_Projects
 
 
+Here is three small projects i have done for the course of research topic at Bishop's. 
+
 SL_Final_2.ipynb : Human Activity Recognition using Smartphone Dataset
 
 The smartphone dataset consists of fitness activity recordings of 30 people captured
